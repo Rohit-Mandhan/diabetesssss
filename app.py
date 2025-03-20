@@ -2,7 +2,6 @@ import os
 # os.system("pip install joblib scikit-learn")  # Force install joblib & scikit-learn
 
 import streamlit as st
-import joblib
 import numpy as np
 import pandas as pd
 import xgboost as xgb
